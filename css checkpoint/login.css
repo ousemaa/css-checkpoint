@@ -1,0 +1,157 @@
+body {
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    width: 50%;
+    margin: auto;
+    background-color: #fff;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #999;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  input[type="text"],
+  input[type="password"] {
+    width: 100%;
+    padding: 1rem;
+    margin-bottom: 1.5rem;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 0 10px #999;
+    font-size: 1.2rem;
+  }
+  
+  input[type="submit"] {
+    width: 50%;
+    padding: 1rem;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    cursor: pointer;
+  } 
+  .container{
+    
+  }body {
+    font-family: Arial, sans-serif;
+    background-color: #797979;
+  }
+  
+  .container {
+    width: 400px;
+    height: 300px;
+    background-color: #fff;
+    margin: 100px auto;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px #000;
+    text-align: center;
+    padding-top: 8px;
+  }
+  
+  h1 {
+    font-size: 40px;
+    margin-bottom: 30px;
+    color: #333;
+  }
+  
+  .form-input {
+    margin: 20px 0;
+  }
+  
+  input[type="text"],
+  input[type="password"] {
+    width: 80%;
+    padding: 10px;
+    font-size: 18px;
+    border-radius: 5px;
+    border: none;
+    box-shadow: 0px 0px 10px #bbb;
+    outline: none;
+    margin-bottom: 20px;
+  }
+  
+  .btn-submit {
+    width: 50%;
+    padding: 10px;
+    font-size: 18px;
+    border-radius: 5px;
+    border: none;
+    background-color: blue;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  .btn-submit:hover {
+    background-color: navy;
+  }
+  footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 30px 0;
+  }
+  
+  .footer-container {
+    width: 80%;
+    margin: 0 auto;
+    
+  }
+  
+  .copyright, .about {
+    font-size: 18px;
+    margin: 0;
+    padding: 10px 0;
+  }
+  
+  .about a {
+    color: #fff;
+    text-decoration: none;
+    
+  }
+  
+  .about a:hover {
+    color: #bbb;
+  }
+  footer {
+    background-color: rgba(51, 51, 51, 0.5);
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+  }
+  .navbar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    height: 50px;
+    background-color: #333;
+    color: #fff;
+    background-color: rgba(51, 51, 51, 0);
+
+  }
+  
+  .navbar-img {
+    height: 60px;
+    width: 60px;
+    padding: 10px;
+    margin-top: 1cm;
+    margin-left: 0.5cm;
+}
+  
